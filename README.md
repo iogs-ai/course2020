@@ -1,4 +1,4 @@
-# 2019/2020 AI/Deep Learning Course
+# 2019/2020 AI & Deep Learning Course
 
 [Institut d'Optique Graduate School](https://www.institutoptique.fr)
 
