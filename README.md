@@ -2,7 +2,7 @@
 
 [Institut d'Optique Graduate School](https://www.institutoptique.fr)
 
-![IOGS logo](iogs_logo.PNG)
+![IOGS logo](iogs_logo.png)
 
 ## Slides
 
