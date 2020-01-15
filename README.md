@@ -2,6 +2,8 @@
 
 [Institut d'Optique Graduate School](https://www.institutoptique.fr)
 
+![IOGS logo](iogs_logo.PNG)
+
 ## Slides
 
 - [Deconstructing AI](https://www.bpesquet.fr/en/slides/ai/deconstructing-ai/)
