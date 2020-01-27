@@ -13,6 +13,8 @@
 - [Logistic Regression](https://www.bpesquet.fr/en/slides/ai/logistic-regression/)
 - [Neural Networks](https://www.bpesquet.fr/en/slides/ai/neural-networks/)
 - [Keras](https://www.bpesquet.fr/en/slides/ai/keras/)
+- [Convolutional Neural Networks](https://www.bpesquet.fr/en/slides/ai/convolutional-neural-networks/)
+- [Generative Deep Learning](https://www.bpesquet.fr/en/slides/ai/generative-deep-learning/)
 
 # Demos
 
