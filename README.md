@@ -22,9 +22,13 @@
 - [Data Preprocessing with scikit-learn](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/demos/workflow/DataPreprocessing.ipynb)
 - [Linear Regression](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=25&networkShape=&seed=0.27079&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=regression&initZero=false&hideText=false&showTestData_hide=false&activation_hide=true&noise_hide=false&discretize_hide=true&dataset_hide=true&batchSize_hide=true&percTrainData_hide=true&numHiddenLayers_hide=true&problem_hide=true)
 - [Logistic Regression](https://playground.tensorflow.org/#activation=sigmoid&batchSize=10&dataset=gauss&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=&seed=0.61489&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false&numHiddenLayers_hide=true&percTrainData_hide=true&discretize_hide=true&problem_hide=true&activation_hide=true)
+- [Neural Networks](http://nbviewer.jupyter.org/github/bpesquet/machine-learning-katas/blob/master/notebooks/demos/algorithms/DNN_PlanarData.ipynb)
+- [Neural Networks Tuning](http://nbviewer.jupyter.org/github/bpesquet/machine-learning-katas/blob/master/notebooks/demos/algorithms/DNN_Tuning.ipynb)
 
 ## Practicals
 
 - [Tensor Management](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/katas/tools/TensorManagement.ipynb)
 - [Linear Regression - Housing Prices](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/katas/algorithms/LinearRegression_BostonHousing.ipynb)
 - [Logistic Regression - Flower Classification](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/katas/algorithms/LogisticRegression_Iris.ipynb)
+- [Neural Networks - Fashion Items Classification](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/katas/algorithms/DNN_FashionMNIST.ipynb)
+- [Neural Networks - News Classification](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/katas/algorithms/DNN_ReutersNews.ipynb)
