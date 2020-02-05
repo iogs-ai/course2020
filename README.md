@@ -32,3 +32,6 @@
 - [Logistic Regression - Flower Classification](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/katas/algorithms/LogisticRegression_Iris.ipynb)
 - [Neural Networks - Fashion Items Classification](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/katas/algorithms/DNN_FashionMNIST.ipynb)
 - [Neural Networks - News Classification](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/katas/algorithms/DNN_ReutersNews.ipynb)
+- [CNN: Classify Common Images](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/katas/algorithms/CNN_CIFAR10.ipynb)
+- [CNN: Distinguish Dogs vs. Cats](https://colab.research.google.com/github/bpesquet/machine-learning-katas/blob/master/notebooks/katas/algorithms/CNN_DogsVsCats_Keras.ipynb)
+- [Neural Style Transfer](https://www.tensorflow.org/tutorials/generative/style_transfer)
